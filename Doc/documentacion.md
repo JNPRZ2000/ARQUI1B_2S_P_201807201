@@ -24,36 +24,47 @@ Juan Pablo Pérez Búc
 ## Pruebas unitarias 
 
 **SUMA**
+---
 ![Prueba Suma ](./Assets/suma.png)
 
 **RESTA**
+---
 ![Prueba Resta](./Assets/resta.png)
 
 **MULTIPLICACION**
-![Prueba Multiplicación](./Assets/multiplicacion.png.png)
+---
+![Prueba Multiplicación](./Assets/multiplicacion.png)
 
 **DIVISION NORMAL**
-![Prueba División](./Assets/division1.png.png)
+---
+![Prueba División](./Assets/division1.png)
 
 **DIVISION ENTRE 0**
+---
 ![Prueba División entre 0](./Assets/division2.png)
 
 **POTENCIA NORMAL**
+---
 ![Prueba Potencia](./Assets/potencia1.png)
 
 **POTENCIA NEGATIVA**
+---
 ![Prueba Potencia Negativa](./Assets/potencia2.png)
 
 **FACTORIAL 0**
+---
 ![Prueba Factorial 0!](./Assets/factorial1.png)
 
 **FACTORIAL 5**
+---
 ![Prueba Factorial 5!](./Assets/factorial2.png)
 
 **PRUEBA MENU ERROR**
+---
 ![Prueba Menu Error](./Assets/opError.png)
 
 **SALIR DE CALCULADORA**
+---
 ![Prueba Salir](./Assets/salir.png)
 
 ## Evidencia de depuración con GDB
